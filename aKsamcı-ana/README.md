@@ -1,11 +1,5 @@
 
 </p>
-<p align="center">
-  <a href="https://discord.com/users/929259820350066718">
-    <img src="https://lanyard.cnrad.dev/api/929259820350066718?bg=0a0f16"alt="Discord Profile"/>   
-  </a>
-</p>
-
 ```js
 const Bestcim = {
     Name: 'Taha',
